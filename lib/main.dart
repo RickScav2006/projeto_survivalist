@@ -187,7 +187,7 @@ class SurvivalManualHomePage extends StatelessWidget {
               Text(
                 'Bem-vindo ao Manual de Sobrevivência Offline!',
                 style: TextStyle(
-                  fontSize: 22,
+                  fontSize: 20,
                   fontWeight: FontWeight.bold,
                   color: Colors.green[700],
                 ),
