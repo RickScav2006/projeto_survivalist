@@ -197,7 +197,7 @@ class SurvivalManualHomePage extends StatelessWidget {
               Text(
                 'Aqui você encontrará tudo o que precisa para sobreviver em situações extremas.',
                 style: TextStyle(
-                  fontSize: 16,
+                  fontSize: 20,
                   color: Colors.green[600],
                 ),
                 textAlign: TextAlign.center,
